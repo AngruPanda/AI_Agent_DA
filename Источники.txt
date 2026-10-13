@@ -1,0 +1,11 @@
+RAG
+https://habr.com/ru/articles/931396/
+https://habr.com/ru/articles/881268/
+Agent
+https://habr.com/ru/articles/729664/
+https://habr.com/ru/companies/amvera/articles/948000/
+https://habr.com/ru/companies/amvera/articles/933460/
+https://habr.com/ru/companies/amvera/articles/949376/
+Fine tunning
+https://habr.com/ru/companies/raft/articles/866148/
+https://habr.com/ru/articles/829324/
